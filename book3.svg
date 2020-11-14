@@ -5946,7 +5946,7 @@
      inkscape:cx="279.68504"
      inkscape:cy="396.85039"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
@@ -6006,7 +6006,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="texture"
-     style="display:inline;opacity:0.09"
+     style="display:inline;opacity:0.16"
      sodipodi:insensitive="true">
     <path
        id="use34445"
@@ -8262,7 +8262,7 @@
     <path
        id="path4141"
        style="font-variation-settings:'wght' 300;fill:#f5f523;fill-opacity:1;stroke:none;stroke-width:0.960234;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 91.964881,149.08863 c 4e-6,9.92173 -8.043148,17.96489 -17.964881,17.96489 -9.921733,0 -17.964885,-8.04316 -17.964881,-17.96489 10e-7,-9.92173 8.043152,-25.59468 17.964881,-25.59468 9.921729,0 17.96488,15.67295 17.964881,25.59468 z"
+       d="m 91.964881,145.59468 c 4e-6,9.92173 -8.043148,17.96489 -17.964881,17.96489 -9.921733,0 -17.964885,-8.04316 -17.964881,-17.96489 C 56.03512,135.67295 64.078271,120 74,120 c 9.921729,0 17.96488,15.67295 17.964881,25.59468 z"
        sodipodi:nodetypes="sssss" />
     <text
        xml:space="preserve"

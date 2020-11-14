@@ -74332,7 +74332,7 @@
      inkscape:cx="279.68504"
      inkscape:cy="396.85039"
      inkscape:document-units="mm"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
@@ -74343,7 +74343,7 @@
      showguides="true"
      inkscape:document-rotation="0"
      inkscape:object-paths="true"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-bbox="false"
@@ -81862,8 +81862,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="accent"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -81877,20 +81876,20 @@
          style="stroke-width:0.264583" /></text>
     <path
        sodipodi:type="star"
-       style="opacity:1;fill:#fd6c00;fill-opacity:1;stroke:none;stroke-width:0.29206;stroke-opacity:1"
+       style="opacity:1;fill:#fd6c00;fill-opacity:1;stroke:none;stroke-width:0.285017;stroke-opacity:1"
        id="path181455"
        sodipodi:sides="3"
        sodipodi:cx="74"
-       sodipodi:cy="143.59558"
-       sodipodi:r1="27.263622"
-       sodipodi:r2="13.631811"
+       sodipodi:cy="146.60622"
+       sodipodi:r1="26.606222"
+       sodipodi:r2="13.30311"
        sodipodi:arg1="0.52359878"
        sodipodi:arg2="1.5707963"
        inkscape:flatsided="true"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 97.610989,157.22739 -47.221979,0 L 74,116.33196 Z"
-       inkscape:transform-center-y="-6.8159071" />
+       d="m 97.041664,159.90933 -46.083328,0 L 74,119.99999 Z"
+       inkscape:transform-center-y="-6.6515574" />
     <rect
        id="rect3800"
        width="99.502235"
