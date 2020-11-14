@@ -5946,7 +5946,7 @@
      inkscape:cx="279.68504"
      inkscape:cy="396.85039"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
@@ -8316,12 +8316,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="text"
+     inkscape:label="title"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
        id="g148"
-       transform="matrix(1.2794673,0,0,0.96569354,-21.390757,8.7383807)">
+       transform="matrix(1.2794673,0,0,0.96569354,-21.390757,7.4154653)">
       <g
          aria-label="MAP AND TERRITORY"
          id="text154"

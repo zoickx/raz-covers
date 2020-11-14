@@ -74332,7 +74332,7 @@
      inkscape:cx="279.68504"
      inkscape:cy="396.85039"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="text154-9"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
@@ -74343,7 +74343,7 @@
      showguides="true"
      inkscape:document-rotation="0"
      inkscape:object-paths="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-bbox="false"
@@ -81862,7 +81862,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="accent"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -81931,56 +81932,58 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="text"
+     inkscape:label="title"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
-       id="g148"
-       transform="matrix(1.2794673,0,0,0.96569354,-21.390757,7.3691167)">
+       id="g148-0"
+       transform="matrix(1.2794673,0,0,0.96569353,-21.391124,7.3688992)"
+       style="display:inline">
       <g
          aria-label="MAP AND TERRITORY"
-         id="text154"
-         style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.05;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         transform="translate(62.265501,16.45169)">
+         id="text154-9"
+         style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.05;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.4732px;line-height:0;font-family:Raleway;-inkscape-font-specification:'Raleway Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:2.14225px;text-anchor:middle;stroke-width:0.0629782"
-           x="15.237986"
-           y="25.094656"
-           id="text171"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.4732px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:2.14225px;text-anchor:middle;stroke-width:0.0629782"
+           x="86.909142"
+           y="45.267071"
+           id="text171-3"
            transform="scale(0.86877049,1.151052)"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.6169px;line-height:0.9;font-family:Raleway;-inkscape-font-specification:'Raleway Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:1.19014px;text-anchor:middle;stroke-width:0.0629782"
              sodipodi:role="line"
-             id="tspan181488"
-             x="15.237985"
-             y="25.094656">HOW TO</tspan><tspan
+             x="86.909142"
+             y="45.267071"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.4732px;font-family:Raleway;-inkscape-font-specification:'Raleway Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.0629782"
+             id="tspan173">ACTUALLY</tspan><tspan
              sodipodi:role="line"
-             x="15.237984"
-             y="34.094036"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.4732px;line-height:0.9;font-family:Raleway;-inkscape-font-specification:'Raleway Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.0629782"
-             id="tspan181460">ACTUALLY</tspan><tspan
-             sodipodi:role="line"
-             x="15.237987"
-             y="43.519917"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.4732px;line-height:0.9;font-family:Raleway;-inkscape-font-specification:'Raleway Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.0629782"
-             id="tspan181462">CHANGE</tspan><tspan
-             sodipodi:role="line"
-             x="15.833055"
-             y="50.611202"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.6169px;line-height:0.85;font-family:Raleway;-inkscape-font-specification:'Raleway Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:1.19014px;text-anchor:middle;stroke-width:0.0629782"
-             id="tspan181464">YOUR MIND</tspan></text>
+             x="87.98027"
+             y="58.35857"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.4732px;font-family:Raleway;-inkscape-font-specification:'Raleway Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.0629782"
+             id="tspan30497">CHANGE</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:9.52112px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.0629782"
-           x="128.47188"
-           y="54.459656"
-           id="text181498"
-           transform="scale(0.8687705,1.151052)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.49695px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:1.53347px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0450812;stroke-linecap:butt;stroke-linejoin:round"
+           x="85.633392"
+           y="33.386822"
+           id="text171-3-6"
+           transform="scale(0.86877049,1.151052)"><tspan
              sodipodi:role="line"
-             id="tspan181496"
-             x="128.47188"
-             y="54.459656"
-             style="stroke-width:0.0629782" /></text>
+             x="86.400131"
+             y="33.386822"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.49695px;font-family:Raleway;-inkscape-font-specification:'Raleway Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.0450812"
+             id="tspan30497-6">HOW TO</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.49695px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:1.53347px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0450812;stroke-linecap:butt;stroke-linejoin:round"
+           x="85.922028"
+           y="68.146629"
+           id="text171-3-6-2"
+           transform="scale(0.86877049,1.151052)"><tspan
+             sodipodi:role="line"
+             x="86.688759"
+             y="68.146629"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.49695px;font-family:Raleway;-inkscape-font-specification:'Raleway Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.0450812"
+             id="tspan30497-6-6">YOUR MIND</tspan></text>
       </g>
     </g>
   </g>
