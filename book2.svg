@@ -74329,10 +74329,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.97643849"
-     inkscape:cx="272.01785"
-     inkscape:cy="413.25965"
+     inkscape:cx="108.84958"
+     inkscape:cy="397.13046"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
@@ -74390,10 +74390,9 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="backgroud"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
-       style="fill:#145454;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#145447;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3810"
        width="147.99998"
        height="210"
@@ -81864,13 +81863,13 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="texture"
-     style="display:inline;opacity:0.16;mix-blend-mode:normal"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:0.16;mix-blend-mode:normal">
     <g
        inkscape:groupmode="layer"
        id="layer7"
        inkscape:label="dots"
-       style="display:inline;opacity:1">
+       style="display:inline;opacity:1"
+       sodipodi:insensitive="true">
       <path
          d="m -14.830531,232.18097 c 0.419831,0 0.822527,-0.16689 1.119401,-0.46366 0.297001,-0.29701 0.463651,-0.69955 0.463651,-1.1194 0,-0.41984 -0.166904,-0.82251 -0.463651,-1.11938 -0.297001,-0.29702 -0.69957,-0.46369 -1.119401,-0.46369 -0.41983,0 -0.822526,0.16691 -1.1194,0.46369 -0.297001,0.29699 -0.463651,0.69954 -0.463651,1.11938 0,0.41985 0.166904,0.82254 0.463651,1.1194 0.297,0.29699 0.69957,0.46366 1.1194,0.46366 z"
          id="use49890"
@@ -87516,7 +87515,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="accent"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
